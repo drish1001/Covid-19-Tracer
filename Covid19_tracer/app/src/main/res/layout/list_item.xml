@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <Button
+        android:id="@+id/district"
+        android:layout_height="wrap_content"
+        android:paddingBottom="1dip"
+        android:paddingTop="4dip"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content" />
+
+    <TextView
+        android:text="Active Cases"
+        android:layout_height="wrap_content"
+        android:paddingBottom="1dip"
+        android:paddingTop="4dip"
+        android:textColor="#3498db"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content" />
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:paddingTop="6dip"
+        android:textColor="#3498db"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Confirmed Cases"
+        android:layout_height="wrap_content"
+        android:paddingBottom="1dip"
+        android:paddingTop="4dip"
+        android:textColor="#16a085"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="2dip"
+        android:textColor="#16a085"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Deceased Cases"
+        android:layout_height="wrap_content"
+        android:paddingBottom="1dip"
+        android:paddingTop="4dip"
+        android:textColor="#e74c3c"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content" />
+
+    <TextView
+        android:id="@+id/mobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#e74c3c"
+        android:paddingBottom="2dip"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="Recovered Cases"
+        android:layout_height="wrap_content"
+        android:paddingBottom="1dip"
+        android:paddingTop="4dip"
+        android:textColor="#e04f9d"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:layout_width="wrap_content" />
+
+    <TextView
+        android:id="@+id/recovered"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#e04f9d"
+        android:textStyle="bold" />
+
+</LinearLayout>
