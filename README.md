@@ -108,12 +108,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 This project is licensed under the MIT License.
 
----
 
-## Contact
+Citations : 
 
-For any questions or feedback, please contact [drish1001](https://github.com/drish1001).
-
-Citations:
 [1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/33876508/d7346fae-a678-4dbb-8489-6f4d586fa3af/paste.txt
-[2] https://github.com/drish1001/Covid-19-Tracer
